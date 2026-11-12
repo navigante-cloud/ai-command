@@ -1,0 +1,2 @@
+# ai-command
+command freee
